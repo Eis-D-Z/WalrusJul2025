@@ -63,3 +63,8 @@ If you have a custom config file in a non-default location you can just point to
 site-builder --config {PATH_TO_CONFIG} publish {PATH_TO_APP}/dist --site-name "decentralized website test" --epochs 2
 ```
 
+## Browsing your site
+On testnet the portal is not available anymore, you can one run locally if you want following this [doc](https://docs.wal.app/walrus-sites/portal.html#running-the-portal-locally).
+
+Also you can follow this [tutorial](https://notion.sui.io/create-a-decentralized-website) to find out how to give a SuiNS name to your site.
+
